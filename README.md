@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dldhk97](https://solved.ac/dldhk97)
 
 <!--
 **dldhk97/dldhk97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
