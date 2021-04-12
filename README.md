@@ -1,5 +1,5 @@
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dldhk97)](https://solved.ac/dldhk97)
-[![dldhk97's GitHub stats](https://github-readme-stats.vercel.app/api?username=dldhk97&show_icons=true&bg_color=DEG,ffd87a,ff9734&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF)](https://github.com/dldhk97)
+[![dldhk97's GitHub stats](https://github-readme-stats.vercel.app/api?username=dldhk97&show_icons=true&bg_color=DEG,ffc744,ff9734&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF)](https://github.com/dldhk97)
 <!--
 **dldhk97/dldhk97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
